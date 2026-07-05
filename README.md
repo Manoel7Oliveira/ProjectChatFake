@@ -31,13 +31,3 @@ Aplicação front-end desenvolvida com HTML, CSS e JavaScript que simula uma int
 
 Este projeto foi desenvolvido com o objetivo de praticar manipulação do DOM, eventos, funções, arrays e lógica de programação utilizando JavaScript.
 
-## ▶️ Como executar
-
-```bash
-# Clone o repositório
-git clone https://github.com/Manoel7Oliveira/ProjectChatFake.git
-
-# Acesse a pasta
-cd ProjectChatFake
-
-# Abra o arquivo index.html no navegador
